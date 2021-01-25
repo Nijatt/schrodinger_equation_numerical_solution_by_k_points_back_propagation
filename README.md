@@ -1,0 +1,2 @@
+# schrodinger_equation_numerical_solution_by_k_points_back_propagation
+Numerical solution of Schrodinger equation by interesting approach and back propagation technique
